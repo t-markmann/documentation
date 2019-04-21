@@ -15,7 +15,7 @@ basic HTTP authentication header.
 * POST argument: password - string, the password for the new user, leave empty to send welcome mail
 * POST argument: displayName - string, the display name for the new user
 * POST argument: email - string, the email for the nex user, required if password empty
-* POST argulent: groups - array, the groups for the new user
+* POST argument: groups - array, the groups for the new user
 * POST argument: subadmin - array, the groups in wich the new user is subadmin
 * POST argument: quota - string, quota for the new user
 * POST argument: language - string, language for the new user
